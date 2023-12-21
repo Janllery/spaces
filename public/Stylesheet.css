@@ -1,0 +1,36 @@
+html{
+    background-color:floralwhite
+}
+h1{
+    color:darkcyan;
+}
+
+.VIP{
+    background-color:chocolate;
+    color: white;
+    margin-right: 234;
+    padding: 10 10 10 10;
+}
+
+.happy{
+    display: inline;
+    color: brown;
+    font-weight: bold;
+}
+img{
+    border: 10px solid burlywood;
+    padding: 20px;
+    background-color:darkolivegreen;
+}
+.Red{
+    color: red;
+    display: inline;
+}
+.Green{
+    color: green;
+    display: inline;
+}
+.Brown{
+    color: brown;
+    display: inline;
+}
